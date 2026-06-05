@@ -44,7 +44,3 @@ My independent research and conception lab. It functions as a philosophical and 
 
 [![Website](https://img.shields.io/badge/daniloborg.es-000?style=for-the-badge&logo=safari&logoColor=white)](https://daniloborg.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniloborges)
-
----
-
-💼 **Currently:** Incubating the next generation of decentralized AI runtime environments and semantic interfaces at [Entelékheia](https://entelekheia.ai).
