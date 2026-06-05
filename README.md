@@ -1,6 +1,6 @@
 # Hey, I'm Danilo Borges 👋
 
-**Product Design Leader & HCI Specialist · Author of the [.agent specification](https://github.com/dot-agent-spec/) · Creator of [entelekheia.ai](https://entelekheia.ai)**
+**Product Design Leader & HCI Specialist · Author of the [.agent specification](https://github.com/dot-agent-spec/) · Creator of [Entelékheia](https://entelekheia.ai)**
 
 > Architecting open semantic infrastructure to make intelligent systems seamless and interoperable across any system or device.
 
